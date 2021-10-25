@@ -1,0 +1,12 @@
+.main-cont {
+    width: 20%;
+}
+.inputs {
+    display: flex;
+    flex-wrap: wrap;
+}
+#results {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px;
+}
